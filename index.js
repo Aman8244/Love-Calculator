@@ -2,7 +2,7 @@
 
 
 
-for(var i=0;i<2;i++){
+
 document.querySelector(".btn").addEventListener("click",function(){
     var num = Math.floor(Math.random()*100)+1;
     var lovePercentage = "Your Love Percentage is "+num+" 🤍";
@@ -13,4 +13,3 @@ document.querySelector(".btn").addEventListener("click",function(){
     },10000)
     
 })
-}
