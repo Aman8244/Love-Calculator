@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(236, 79, 79);
+}
+
+.loveCalc{
+    text-align: center;
+    margin-top: 60px;
+    font-family: cursive;
+    color:seashell;
+    font-style: italic;
+    font-size: 350%;
+}
+.girlName{
+    position:absolute;
+    left: 60%;
+    top: 40%;
+    font-family: cursive;
+    color:rgb(240, 215, 215);
+    
+}
+.boyName{
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    font-family: cursive;
+    color:rgb(240, 215, 215);
+}
+.btn{
+    color: rgb(237, 77, 77);
+    border-color:  rgb(177, 227, 248);
+    font-family:sans-serif;
+    background-color: rgb(231, 221, 221);
+    line-height: 1.5rem;
+    font-size: larger;
+    width: 6rem;
+    height: 3rem;
+    position: absolute;
+    top: 65%;
+    left: 45%;
+}
+
+input{
+    height: 2rem;
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
